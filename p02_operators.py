@@ -19,3 +19,7 @@ print(84 / 2)
 
 # exponent / power
 print(3**3 + 2**4 - 1) # anyone has a better one?
+
+print(5**2 + 3**3 - 5*2)
+
+print(4**3 - 22)
